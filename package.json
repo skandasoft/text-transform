@@ -1,0 +1,17 @@
+{
+  "name": "text-transform",
+  "main": "./lib/text-transform",
+  "version": "0.0.1",
+  "description": "Text-Transform",
+  "keywords": [
+  ],
+  "repository": "https://github.com/skandasoft/text-transform",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "underscore.string": "~3.3.4",
+    "atom-space-pen-views": "~2.2.0"
+  }
+}
