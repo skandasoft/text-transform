@@ -1,10 +1,9 @@
 {
   "name": "text-transform",
   "main": "./lib/text-transform",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Text-Transform",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/skandasoft/text-transform",
   "license": "MIT",
   "engines": {
